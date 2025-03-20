@@ -1,6 +1,5 @@
 # EVO-Low-Sales-No-Sales
 
-# Customer Sales Order Analysis
 
 # Overview
 This Python project analyzes customer sales data to identify purchasing patterns, predict future orders, and flag potential sales opportunities. It processes an Excel file containing sales transactions and provides insights on customer-item relationships, typical order cycles, and late reorders.
