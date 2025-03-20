@@ -2,8 +2,7 @@
 
 
 # Overview
-This Python project analyzes customer sales data to identify purchasing patterns, predict future orders, and flag potential sales opportunities. It processes an Excel file containing sales transactions and provides insights on customer-item relationships, typical order cycles, and late reorders.
-
+This Python code takes raw transaction data and finds average order patterns for customer-item relationships. The output is an Excel file that shows the average order cycle for each customer-item and customer-CFBU relationship, their next expected order date and whether they are significantly out of their order cycle or not. 
 # Features
 - **Data Cleaning & Preparation**  
   - Strips whitespace from column names and values.  
